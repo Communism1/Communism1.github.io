@@ -7,7 +7,7 @@ permalink: /about/
 30/6 - Educational Codeforces Round 24 : 
 + Problem A: easy as fuck !
 + Problem B: Implemetation. But there was somekind of mindfuck happended:
-- There were many edge conditions to check and with my grape-brain it took 14 subs and 1 hacked to AC :).
+ * There were many edge conditions to check and with my grape-brain it took 14 subs and 1 hacked to AC :).
 
 ### More Information
 
